@@ -1,0 +1,163 @@
+body{
+    background: #314755;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to top, #26a0da, #314755);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to top, #26a0da, #314755); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.container{
+
+    position: absolute;
+    left: 400px;
+    bottom: 600px;
+    right: 500px;
+    top: 30px;
+    border: 2px solid darkblue;
+    background-color: white;
+    
+    
+    
+}
+
+.container2{
+
+position: relative;
+left: 430px;
+bottom: 20px;
+}
+
+.demo{
+
+position: absolute;
+left: 1250px;
+bottom: 600px;
+
+
+
+
+}
+
+
+.demo2{
+
+    position: absolute;
+    left: 1290px;
+    bottom: 601px;
+    
+    
+    
+}
+
+
+.cards{
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+    bottom: 450px;
+    left: 150px;
+
+}
+
+
+.card1{
+
+    border: 1px solid black;
+    width: 300px;
+    height: 20vh;
+    background-color: aquamarine;
+    border-radius: 12px;
+    padding: 10px;
+    column-gap: 100px;
+}
+
+
+.card2{
+
+    border: 1px solid black;
+    width: 300px;
+    height: 20vh;
+    background-color: aquamarine;
+    border-radius: 12px;
+    padding: 10px;
+}
+
+
+.card3{
+
+    border: 1px solid black;
+    width: 300px;
+    height: 20vh;
+    background-color: aquamarine;
+    border-radius: 12px;
+    padding: 10px;
+}
+
+.card4{
+
+    border: 1px solid black;
+    width: 300px;
+    height: 20vh;
+    background-color: aquamarine;
+    border-radius: 12px;
+    padding: 10px;
+}
+
+
+.card11{
+
+    position: absolute;
+    right: 1040px;
+    bottom: 100px;
+    
+}
+
+.card22{
+
+    position: absolute;
+    right: 1040px;
+    bottom: 100px;
+    left: 600px;
+    
+
+}
+
+.card33{
+
+
+    position: absolute;
+    right: 390px;
+    bottom: 95px;
+    
+}
+
+.card44{
+
+
+    position: absolute;
+    left: 1250px;
+    bottom: 100px;
+    
+
+}
+
+.graph1{
+
+    position: absolute;
+    left: 200px;
+    bottom: 100px;
+    top: 350px;
+    
+}
+
+
+.graph2{
+
+    position: absolute;
+    left: 770px;
+    bottom: 100px;
+    top: 350px;
+    
+}
+
